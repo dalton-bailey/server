@@ -1,8 +1,14 @@
 ## Frontend on Netlify
+[https://dgm3790-baileydalton.netlify.app/fossils](https://dgm3790-baileydalton.netlify.app/fossils)
+
+You can search, add, edit and delete fossils.
 
 ## Backend on Heroku
 
-### DELTE
+[https://afternoon-temple-99772.herokuapp.com/fossil](https://afternoon-temple-99772.herokuapp.com/fossil)
+
+### DELETE
+
 ```javascript
   const handleDelete = async () => {
     setDeleteOpen(false);
